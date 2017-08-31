@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: ___Omari Bey____________________________________
 
 ## DUE: 31 Aug 2017
 
